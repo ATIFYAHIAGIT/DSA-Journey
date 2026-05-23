@@ -10,7 +10,7 @@ int main () {
     cout<<"The sum of numbers is: "<<a+b;
 
 
-    cout<<"\n"
+    
         int z=75;
     char y='B';
     z=y;
