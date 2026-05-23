@@ -18,5 +18,4 @@ int main () {
     y=z;
         cout<<z<<y;
     return 0;
-
 }
