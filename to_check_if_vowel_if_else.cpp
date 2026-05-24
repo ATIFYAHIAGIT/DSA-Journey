@@ -2,12 +2,13 @@
 using namespace std;
 
 int main () {
-    string c="a"; 
+    string variable="m"; 
     
-    if (c=="a" || c=="e" || c=="i" || c=="o" || c=="u");
-    {cout<<"c is a vowel"};
+    if (variable=="a" || variable=="e" || variable=="i" || variable=="o" || variable=="u")
+    {cout<<"variable is a vowel";
+    }
     else
-    {cout<<"c is not a vowel"};
+    {cout<<"variable is not a vowel";}
 
     return 0;
 }
