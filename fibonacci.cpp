@@ -11,12 +11,10 @@ int main () {
     cin>>n;
 
     if  (n<2) {
-        if (n==0) {
+        if (n==0 || n==1) {
         cout<<0;
     }   
-        else {
-            cout<<0<<" "<<1;
-        }}
+        }
 
     else {
         cout<<0<<" ";
